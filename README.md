@@ -1,4 +1,4 @@
-Trigger Jenkins at 2025-09-12 14:15 AEST
+Demo commit for Jenkins auto-trigger.
 # Goof - Snyk's vulnerable demo app
 [![Known Vulnerabilities](https://snyk.io/test/github/snyk/goof/badge.svg?style=flat-square)](https://snyk.io/test/github/snyk/goof)
 
